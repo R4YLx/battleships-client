@@ -1,9 +1,9 @@
 # Battleship Game - Client
 
 An assignment developed by [Alexander Kocman](https://github.com/kungkotz), [Gustaf Grönlund](https://github.com/GustafGronlund) and [Raymond Lam](https://github.com/R4YLx).
-You can try our version of Battleship @ [https://8bit-battleship.netlify.app/](https://8bit-battleship.netlify.app/).
+You can try our version of Battleship @ [https://battleship-fed21.netlify.app/](https://battleship-fed21.netlify.app/).
 
-Check out our server part [https://github.com/kungkotz/battleships-server](https://github.com/kungkotz/battleships-server).
+Check out our server part [https://github.com/R4YLx/battleships-server](https://github.com/R4YLx/battleships-server).
 
 ### Languages used:
 
